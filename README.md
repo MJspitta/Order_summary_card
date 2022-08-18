@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Challenge Solution](https://your-solution-url.com)
-- Live Site URL: [Order Summary Component](https://your-live-site-url.com)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/order-summary-card-afjUiVg6s7)
+- Live Site URL: [Order Summary Component](https://mjspitta.github.io/Order_summary_card/)
 
 ## My process
 
